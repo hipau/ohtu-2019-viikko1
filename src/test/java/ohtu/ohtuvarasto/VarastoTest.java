@@ -116,7 +116,7 @@ public class VarastoTest {
     @Test
     public void negatiivisenMaaranOttaminenEiMuutaSaldoa() {
         alkusaldovarasto.otaVarastosta(-2);
-        assertEquals(3, alkusaldovarasto.getSaldo(), vertailuTarkkuus);
+        assertEquals(4, alkusaldovarasto.getSaldo(), vertailuTarkkuus);
     }
     
     @Test
