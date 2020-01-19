@@ -4,3 +4,4 @@
 
 [![codecov](https://codecov.io/gh/hipau/ohtu-2019-viikko1/branch/master/graph/badge.svg?token=AZUGR6qm16)](https://codecov.io/gh/hipau/ohtu-2019-viikko1)
 
+https://github.com/hipau/ohtu2020
