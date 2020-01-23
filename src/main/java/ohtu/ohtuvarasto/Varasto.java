@@ -25,7 +25,8 @@ public class Varasto {
         }
         if (alkuSaldo <= tilavuus) { // mahtuu        
             this.saldo = max(alkuSaldo, 0.0);
-        } else {
+        } else 
+        {
             this.saldo = tilavuus;  // täyteen ja ylimäärä hukkaan!
         }
     }
